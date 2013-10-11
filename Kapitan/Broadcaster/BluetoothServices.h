@@ -1,0 +1,2 @@
+#define SERVICE_UUID @"38c0e27b-a61f-143c-ef0b-0d261f03353f"
+#define CHARACTERISTIC_UUID @"38c0e27b-a61f-143c-ef0b-0d261f03353f"
