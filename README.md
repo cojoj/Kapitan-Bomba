@@ -14,6 +14,6 @@ Long, long time ago there was a forbidden Universe called Kurvix which was prote
   
   
 **This project was created by:**
-[cojoj](https://github.com/cojoj)
-[mckomo](https://github.com/mckomo)
-[poszposz](https://github.com/poszposz)
+* [cojoj](https://github.com/cojoj)
+* [mckomo](https://github.com/mckomo)
+* [poszposz](https://github.com/poszposz)
