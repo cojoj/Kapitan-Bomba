@@ -5,8 +5,8 @@ These are the two projects created on [Hack KRK](http://hackkrk.com). Title of t
 create iOS app which is using `CoreBluetooth`.    
 
 It is devided into two pieces:
-1. **Broadcaster**
-2. **Receiver**  
+* **Broadcaster**
+* **Receiver**  
   
 And here is the story which lays behind this project:
 ---
